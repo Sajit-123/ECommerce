@@ -12,8 +12,9 @@ Its features are:
 
 1) Authenticated Login with 1 session limit (only 1 user can be logged in at once).
 2) Can also login with google Authentication (Used OAuth for user login with google account).
-3) Role based Login (User or Admin).
-4) After login viewing products, adding to cart.
-5) Logout deletes the itme stored in cart.
-6) Admin can add,edit and Delete Products and Categories.
+3) Password is stored in encrypted form.
+4) Role based Login (User or Admin).
+5) After login viewing products, adding to cart.
+6) Logout deletes the itme stored in cart.
+7) Admin can add,edit and Delete Products and Categories.
 
